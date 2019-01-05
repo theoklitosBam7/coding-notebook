@@ -4,7 +4,7 @@ module.exports = {
     author: `Theoklitos Bampouris`,
     description: `Personal blog by Theoklitos Bampouris who lives in Athens (Greece), working as an Application Developer.`,
     keywords: `coding, software, development, engineering, applications`,
-    siteUrl: `https://www.coding-notebook.ml/`,
+    siteUrl: `https://www.codingnotebook.eu/`,
   },
   pathPrefix: '/',
   plugins: [

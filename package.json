@@ -36,7 +36,7 @@
     "eslint-plugin-react": "^7.12.0",
     "prettier": "^1.15.3"
   },
-  "homepage": "https://www.coding-notebook.ml/",
+  "homepage": "https://www.codingnotebook.eu/",
   "license": "MIT",
   "scripts": {
     "dev": "gatsby develop",
