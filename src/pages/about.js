@@ -31,7 +31,8 @@ class About extends React.Component {
           <li>Testing and debugging software.</li>
         </ul>
         <p>Before this path, I had studied Python (which was my first touch with programming) and Web Development mostly focused on JS technologies such as: React.js, Vue.js, Express.js.</p>
-        <p>Recently, I decided to delve deeper into back-end technologies (Java/Spring boot, C#/.NET)</p>
+        <p>Recently, I decided to delve deeper into back-end technologies (Java/Spring boot, C#/.NET).</p>
+        <p>Last but not least, I’m a Linux lover.</p>
         <Footer />
       </Layout>
     )
