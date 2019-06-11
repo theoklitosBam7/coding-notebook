@@ -23,16 +23,16 @@ class About extends React.Component {
         />
         <h1>Within a few words</h1>
         <hr />
-        <p>Ι’m currently working as a COBOL Developer with IBM iSeries (AS/400) computer system in FS Industry (more specific in Insurance).</p>
-        <p><strong>Main duties involved:</strong></p>
+        <p>Application Developer currently working with IBM iSeries (AS/400) computer system in FS Industry (more specific in Insurance) writing and maintaining complex applications written mostly in COBOL</p>
+        <p>I have a very good knowledge of SQL RDBMSs (MariaDB, Postgresql, DB2) and I'm familiar with NoSQL databases like MongoDB.</p>
+        <p>Regarding the Web Development arena I'm mostly focused on technologies such as React.js, Vue.js, Angular on front-end and Spring Boot, Express.js on back-end.</p>
+        <p><strong>Main duties involved on project:</strong></p>
         <ul>
-          <li>Application development and implementation</li>
-          <li>Technical documentation for project’s application and AS/400.</li>
+          <li>Application development and implementation.</li>
+          <li>Technical documentation.</li>
           <li>Testing and debugging software.</li>
           <li>Production troubleshooting and support.</li>
         </ul>
-        <p>Before this path, I had studied Python (which was my first touch with programming) and Web Development mostly focused on JS technologies such as: React.js, Vue.js, Express.js.</p>
-        <p>Recently, I decided to delve deeper into databases and back-end technologies.</p>
         <p>Last but not least, I’m a Linux lover.</p>
         <Footer />
       </Layout>
