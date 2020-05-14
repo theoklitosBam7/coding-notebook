@@ -30,7 +30,7 @@ class Bio extends React.Component {
           className="imgStyle"
         />
         <p>
-          Personal blog by <Link to={'/about'}>Theoklitos Bampouris</Link> who lives in Athens (Greece), working as an Application Developer.
+          Personal blog by <Link to={'/about'}>Theoklitos Bampouris</Link> who lives in Athens (Greece), working as a Software Developer.
           {' '}
           <a href="https://twitter.com/theoklitosBam7">
             You should follow him on Twitter

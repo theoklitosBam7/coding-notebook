@@ -23,11 +23,13 @@ class About extends React.Component {
         />
         <h1>Within a few words</h1>
         <hr />
-        <p>Application Developer currently working with IBM iSeries (AS/400) computer system in FS Industry (more specific in Insurance) writing and maintaining complex applications written mostly in COBOL</p>
-        <p>I have a very good knowledge of SQL RDBMSs (MariaDB, Postgresql, DB2) and I'm familiar with NoSQL databases like MongoDB.</p>
-        <p>Regarding the Web Development arena I'm mostly focused on technologies such as React.js, Vue.js, Angular on front-end and Spring Boot, Express.js on back-end.</p>
-        <p><strong>Main duties involved on project:</strong></p>
+        <p>Software Developer working in Insurance and Banking Projects. I develop new features for the business's core system and maintaining the existing ones.</p>
+        <p>I'm a continuous learner of design patterns and architectures with cutting-edge technologies.</p>
+        <p><strong>Main technologies and duties involved on project:</strong></p>
         <ul>
+          <li>IBM iSeries, COBOL, CL, DB2.</li>
+          <li>Middleware SOAP Web Services.</li>
+          <li>JBoss EAP, Apache Camel, WSDL, Spring.</li>
           <li>Application development and implementation.</li>
           <li>Technical documentation.</li>
           <li>Testing and debugging software.</li>
