@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Coding Notebook`,
     author: `Theoklitos Bampouris`,
-    description: `Personal blog by Theoklitos Bampouris who lives in Athens (Greece), working as an Application Developer.`,
+    description: `Personal blog by Theoklitos Bampouris who lives in Athens (Greece), working as a Software Developer.`,
     keywords: `coding, software, development, engineering, applications`,
     siteUrl: `https://www.codingnotebook.eu/`,
   },
