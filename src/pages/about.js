@@ -23,20 +23,7 @@ class About extends React.Component {
         />
         <h1>Within a few words</h1>
         <hr />
-        <p>Software Developer with working experience in Insurance and Banking Projects. I develop new features for the business's core system and their web applications, maintaining at the same time the existing ones.</p>
-        <p>I'm a continuous learner of design patterns and architectures with cutting-edge technologies.</p>
-        <p><strong>Main technologies and duties involved on project:</strong></p>
-        <ul>
-          <li>IBM iSeries, COBOL, CL, DB2.</li>
-          <li>Angular, Node.js.</li>
-          <li>Middleware SOAP Web Services.</li>
-          <li>JBoss EAP, Apache Camel, WSDL, Spring.</li>
-          <li>Application development and implementation.</li>
-          <li>Technical documentation.</li>
-          <li>Testing and debugging software.</li>
-          <li>Production troubleshooting and support.</li>
-        </ul>
-        <p>Last but not least, I’m a Linux lover.</p>
+        Visit <a href="https://www.bampouris.eu/" target="_blank">bampouris.eu</a>
         <Footer />
       </Layout>
     )
